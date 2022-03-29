@@ -13,3 +13,4 @@ A simple REST API samples with different languages and frameworks.
 - [Ktor Sample](https://github.com/retheviper/ktorsample): Kotlin + Ktor
 - [Quarkus Sample](https://github.com/retheviper/quarkussample): Kotlin + Quarkus
 - [Go Gin Sample](https://github.com/retheviper/goginsample): Go + Gin
+- [Rocket Sample](https://github.com/retheviper/RocketSample): Rust + Rocket
