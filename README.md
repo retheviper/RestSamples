@@ -12,5 +12,5 @@ A simple REST API samples with different languages and frameworks.
 - [Spring WebFlux Sample](https://github.com/retheviper/springwebfluxsample): Kotlin + Spring WebFlux
 - [Ktor Sample](https://github.com/retheviper/ktorsample): Kotlin + Ktor
 - [Quarkus Sample](https://github.com/retheviper/quarkussample): Kotlin + Quarkus
-- [Go Gin Sample](https://github.com/retheviper/goginsample): Go + Gin
+- [Gin Sample](https://github.com/retheviper/ginsample): Go + Gin
 - [Rocket Sample](https://github.com/retheviper/RocketSample): Rust + Rocket
