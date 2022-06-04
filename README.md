@@ -14,3 +14,4 @@ A simple REST API samples with different languages and frameworks.
 - [Quarkus Sample](https://github.com/retheviper/quarkussample): Kotlin + Quarkus
 - [Gin Sample](https://github.com/retheviper/ginsample): Go + Gin
 - [Rocket Sample](https://github.com/retheviper/RocketSample): Rust + Rocket
+- [Async Server Example](https://github.com/retheviper/AsyncServerExample): Go + Gin / Kotlin + Spring Boot
